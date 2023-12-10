@@ -15,3 +15,5 @@ trim_trailing_whitespace = true
 quote_type = single
 max_line_length = 120
 ```
+
+If you created your project with vited, this editorconfig should already be included. If not, copy above content into your `.editorconfig` file.

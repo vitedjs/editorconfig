@@ -1,0 +1,31 @@
+{
+  "name": "@vited/editorconfig",
+  "version": "1.0.0",
+  "description": "Recommended EditorConfig for Vited projects",
+  "keywords": [
+    "vited",
+    "editorconfig",
+    "shareable-config"
+  ],
+  "homepage": "https://github.com/vitedjs/editorconfig#readme",
+  "bugs": {
+    "url": "https://github.com/vitedjs/editorconfig/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitedjs/editorconfig.git"
+  },
+  "funding": "https://github.com/sponsors/guoyunhe",
+  "license": "MIT",
+  "author": {
+    "name": "Guo Yunhe",
+    "email": "i@guoyunhe.me",
+    "url": "https://guoyunhe.me/"
+  },
+  "files": [
+    ".editorconfig",
+    "CHANGELOG.md",
+    "LICENSE",
+    "README.md"
+  ]
+}
