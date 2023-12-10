@@ -27,5 +27,8 @@
     "CHANGELOG.md",
     "LICENSE",
     "README.md"
-  ]
+  ],
+  "devDependencies": {
+    "prettier": "^3.1.1"
+  }
 }
